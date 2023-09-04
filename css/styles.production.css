@@ -197,10 +197,11 @@ span {
   }
 
   .grid__item {
-    background-color: lightgray;
+    background-color: white;
     width: auto;
     min-height: auto;
     margin: 0;
+    padding: 5px;
   }
 
   .grid__item:last-child {
@@ -366,4 +367,8 @@ span {
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
   
+}
+
+.work {
+  text-align: center;
 }
