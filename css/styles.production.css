@@ -127,6 +127,8 @@ span {
 
 .page-footer {
   clear: both;
+  text-align: center;
+  margin-top: auto;
 }
 
 * {
@@ -370,5 +372,13 @@ span {
 }
 
 .work {
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+}
+
+.contact-forms {
   text-align: center;
 }
